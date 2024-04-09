@@ -1,7 +1,10 @@
 ## Jogo da velha
 
 Jogo da velha criado apenas com javascript, css, html:  
-Foco: jogador contra máquina
+doco: jogador contra máquina  
+acesse: <a href="https://evanilsondejesus.github.io/jogo_da_velha/" target="_blank">Jogo da velha</a>
+
+
  
 ### Página inicial:
 
